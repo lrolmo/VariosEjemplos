@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaLogica", "CapaLogica\CapaLogica.csproj", "{7D081045-555F-4BF3-A4AF-2DAAF2C17098}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaDiseño", "CapaDiseño\CapaDiseño.csproj", "{584754D6-47F9-4F05-B63A-B9B6D4EF57E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaDatos", "CapaDatos\CapaDatos.csproj", "{992FB527-FCEE-490A-B5E1-4BC9BDD1D555}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D081045-555F-4BF3-A4AF-2DAAF2C17098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D081045-555F-4BF3-A4AF-2DAAF2C17098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D081045-555F-4BF3-A4AF-2DAAF2C17098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D081045-555F-4BF3-A4AF-2DAAF2C17098}.Release|Any CPU.Build.0 = Release|Any CPU
+		{584754D6-47F9-4F05-B63A-B9B6D4EF57E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{584754D6-47F9-4F05-B63A-B9B6D4EF57E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{584754D6-47F9-4F05-B63A-B9B6D4EF57E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{584754D6-47F9-4F05-B63A-B9B6D4EF57E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{992FB527-FCEE-490A-B5E1-4BC9BDD1D555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{992FB527-FCEE-490A-B5E1-4BC9BDD1D555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{992FB527-FCEE-490A-B5E1-4BC9BDD1D555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{992FB527-FCEE-490A-B5E1-4BC9BDD1D555}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A56A1C6-729D-4FDF-9E5B-165B8E38848A}
+	EndGlobalSection
+EndGlobal
